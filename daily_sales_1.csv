@@ -1,11 +1,11 @@
-Date	Region	Product	Units Sold	Revenue	Salesperson
-2024-11-01	North	Widget A	150	1200	John Doe
-2024-11-01	North	Widget B	200	1800	Jane Smith
-2024-11-02	North	Widget A	160	1280	John Doe
-2024-11-02	North	Widget B	180	1620	Jane Smith
-2024-11-03	North	Widget A	170	1360	John Doe
-2024-11-03	North	Widget B	220	1980	Jane Smith
-2024-11-04	North	Widget A	140	1120	John Doe
-2024-11-04	North	Widget B	190	1710	Jane Smith
-2024-11-05	North	Widget A	180	1440	John Doe
-2024-11-05	North	Widget B	210	1890	Jane Smith
+Date,Region,Product,Units,Sold,Revenue,Salesperson
+2024-11-01,North,Widget,A,150,1200,John Doe
+2024-11-01,North,Widget,B,200,1800,Jane Smith
+2024-11-02,North,Widget,A,160,1280,John Doe
+2024-11-02,North,Widget,B,180,1620,Jane Smith
+2024-11-03,North,Widget,A,170,1360,John Doe
+2024-11-03,North,Widget,B,220,1980,Jane Smith
+2024-11-04,North,Widget,A,140,1120,John Doe
+2024-11-04,North,Widget,B,190,1710,Jane Smith
+2024-11-05,North,Widget,A,180,1440,John Doe
+2024-11-05,North,Widget,B,210,1890,Jane Smith
